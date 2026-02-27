@@ -1,1 +1,0 @@
-*.tar.gz filter=gpg-crypt diff=binary

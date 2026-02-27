@@ -1,4 +1,4 @@
-# btt (Bandwidth Test Tool)
+# btt (Brett Test Tool)
 
 A batch testing tool to erase, move, execute, and log file operations.
 
